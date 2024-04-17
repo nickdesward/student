@@ -1,4 +1,4 @@
-package Student
+package student
 
 type Address struct {
 	street string
